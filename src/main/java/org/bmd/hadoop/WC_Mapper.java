@@ -1,4 +1,4 @@
-package org.danvk.hadoop;
+package org.bmd.hadoop;
 
 import java.io.IOException;
 import org.apache.hadoop.io.IntWritable;

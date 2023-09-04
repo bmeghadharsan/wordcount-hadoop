@@ -1,4 +1,4 @@
-package org.danvk.hadoop;
+package org.bmd.hadoop;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
