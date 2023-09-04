@@ -4,10 +4,7 @@ This is a dead simple Maven project which uses Hadoop. It follows [this guide](h
 
 Assuming you have [hadoop](http://www.apache.org/dyn/closer.cgi/hadoop/common/) and mvn available on your machine:
 
-    $ git clone ...
-    $ cd maven-hadoop-quickstart
-    $ mvn package
-    $ hadoop jar target/MapReduce-1.0-SNAPSHOT.jar org.danvk.hadoop.WordCount /usr/share/dict/words /tmp/wordcount
+    $ hadoop jar target/MapReduce-1.0-SNAPSHOT.jar org.bmd.hadoop. /usr/share/dict/words /tmp/wordcount
     $ head /tmp/wordcount/part-r-00000
     A	1
     Aani	1
